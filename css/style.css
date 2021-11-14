@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'white-rabbit';
+  src: url('/assets/fonts/WhiteRabbit.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/WhiteRabbit.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/WhiteRabbit.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/WhiteRabbit.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/assets/fonts/WhiteRabbit.svg#svgWhiteRabbit') format('svg'); /* Legacy iOS */
+}
+
+body
+{
+    background-color:#000000;
+    font-size:20px;
+    color:#40FF00;
+    font-family: 'white-rabbit';
+}
+
+a
+{
+    color:#40FF00;
+    font-family: 'white-rabbit';
+    text-decoration: none;
+}
+
+
